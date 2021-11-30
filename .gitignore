@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+*.dot
 
 submission_*.csv
 !submission_format.csv
